@@ -65,9 +65,3 @@ flowchart LR
 
 Veja meu portfólio em **[joaokirst.com.br](https://joaokirst.com.br/)**.
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoalexandre2&show_icons=true&hide_border=true&count_private=false" alt="Estatísticas do GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalexandre2&layout=compact&hide_border=true" alt="Linguagens mais usadas" height="150">
-</div>
