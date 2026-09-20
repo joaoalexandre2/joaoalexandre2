@@ -55,11 +55,12 @@ flowchart LR
 | 🐘 **API** | [mycar](https://github.com/joaoalexandre2/mycar) | Laravel 12, autenticação por token, CRUD completo, testes automatizados |
 | ⚛️ **Frontend** | [mycar_frontend](https://github.com/joaoalexandre2/mycar_frontend) | React 19, TypeScript, Tailwind, rotas protegidas, paginação, testes com Vitest |
 
-## 📌 Outros projetos
+## 🏨 Hotels: API + painel administrativo
 
-- 🏨 [backend-hotels-api](https://github.com/joaoalexandre2/backend-hotels-api): API em Java
-- 🖥️ [admin-hotes](https://github.com/joaoalexandre2/admin-hotes): painel administrativo em TypeScript
-- 📣 [canal-escuta](https://github.com/joaoalexandre2/canal-escuta): aplicação em PHP
+| | Repositório | O que tem |
+|---|---|---|
+| ☕ **API** | [backend-hotels-api](https://github.com/joaoalexandre2/backend-hotels-api) | Spring Boot, arquitetura em camadas, JPA, paginação, Docker |
+| ⚛️ **Painel** | [admin-hotes](https://github.com/joaoalexandre2/admin-hotes) | React 19, TypeScript, React Query, CRUD de hotéis e quartos |
 
 ## 📫 Contato
 
